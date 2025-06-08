@@ -53,14 +53,5 @@ The analysis helps uncover trends and behaviors related to urban bike-sharing sy
   - Trip duration statistics
   - User breakdown (by type, gender, birth year)
 
----
-
-## ✅ How to Run
-
-1. Clone this repository to your local machine.
-2. Open a terminal and navigate to the project directory.
-3. Run the script using:
-   ```bash
-   python bikeshare.py
 
 
